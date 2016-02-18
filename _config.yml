@@ -1,18 +1,31 @@
-analytics: {}
+name: HaydenDavey
+favicon: null
+layout_spectrum: 0.301801
+typography_spectrum: 0.246621
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
-    - '#A0B0C8'
-    - '#1C3E69'
-    - '#4870A8'
-    - '#5088D0'
-    - '#88B8E0'
+    - '#ffffff'
+    - '#795c56'
+    - '#001f00'
+    - '#6ba21a'
+    - '#c6ec43'
   brandStrength: 0.8442000213199738
   lightness: 0.998893574138624
-  rhythmicContrast: 0.46369574561482485
   saturation: 0.6612659742066399
-cta: {}
-layout_spectrum: 0.301801
-name: HaydenDavey
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.246621
+  rhythmicContrast: 0.46369574561482485
+purpose:
+  - name: null
+    item: null
+    url: null
