@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[HaydenDavey]]></title>
         <description><![CDATA[HaydenDavey]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/haydendavey/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Feb 2016 05:57:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Feb 2016 05:58:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/haydendavey/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>test 3</p>]]></description>
+            <link>https://thegrid.ai/haydendavey/cca95744-0df9-4e94-9f3b-97d86cc6581d/index.html</link>
+            <guid isPermaLink="false">cca95744-0df9-4e94-9f3b-97d86cc6581d</guid>
+            <pubDate>Thu, 18 Feb 2016 05:58:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/27036b8d-b30f-4d0c-a4c0-614ffce83b6c.jpg">]]></description>
-            <link>undefined22c94142-2174-4a47-9e02-689597d0fc43/index.html</link>
+            <link>https://thegrid.ai/haydendavey/22c94142-2174-4a47-9e02-689597d0fc43/index.html</link>
             <guid isPermaLink="false">22c94142-2174-4a47-9e02-689597d0fc43</guid>
             <pubDate>Thu, 18 Feb 2016 05:57:00 GMT</pubDate>
         </item>
