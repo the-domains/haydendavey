@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#A0B0C8'
+    - '#1C3E69'
+    - '#4870A8'
+    - '#5088D0'
+    - '#88B8E0'
+  brandStrength: 0.8442000213199738
+  lightness: 0.998893574138624
+  rhythmicContrast: 0.46369574561482485
+  saturation: 0.6612659742066399
+cta: {}
+layout_spectrum: 0.301801
+name: HaydenDavey
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.246621
