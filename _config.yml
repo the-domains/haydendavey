@@ -1,19 +1,4 @@
-name: HaydenDavey
-favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.246621
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#ffffff'
@@ -23,9 +8,12 @@ color:
     - '#c6ec43'
   brandStrength: 0.5
   lightness: 0.998893574138624
-  saturation: 0.6612659742066399
   rhythmicContrast: 0.46369574561482485
+  saturation: 0.6612659742066399
+cta: {}
+layout_spectrum: 0.189189
+name: HaydenDavey
+opengraph: {}
 purpose:
-  - name: null
-    item: null
-    url: null
+  - {}
+typography_spectrum: 0.246621
