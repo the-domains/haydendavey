@@ -1,4 +1,4 @@
-analytics: {}
+typography_spectrum: 0.246621
 color:
   brandColors:
     - '#ffffff'
@@ -10,10 +10,12 @@ color:
   lightness: 0.998893574138624
   rhythmicContrast: 0.46369574561482485
   saturation: 0.6612659742066399
-cta: {}
-layout_spectrum: 0.189189
-name: HaydenDavey
 opengraph: {}
-purpose:
-  - {}
-typography_spectrum: 0.246621
+layout_spectrum: 0.189189
+analytics: {}
+author:
+  name: Hayden Davey
+  email: thisishayden@gmail.com
+name: HaydenDavey
+cta: {}
+purpose: []
